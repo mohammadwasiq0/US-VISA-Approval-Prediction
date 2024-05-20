@@ -30,7 +30,7 @@ git config --global user.email "mohammadwasiqturk@gmail.com"
 ```
 
 ```bash
-git config --global user.email "Mohammad Wasiq"
+git config --global user.email "mohammadwasiq0"
 ```
 
 
