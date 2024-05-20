@@ -19,3 +19,29 @@ python template.py
 ```bash
 git add .
 ```
+
+```bash
+git config --global user.email "mohammadwasiqturk@gmail.com"
+```
+
+```bash
+git config --global user.email "Mohammad Wasiq"
+```
+
+
+```bash
+git commit -m "folder structure added"
+```
+
+```bash
+git push origin main
+```
+
+## To Install Libraries in Virtual Environment
+```bash
+pip install -r requirements.txt
+```
+## Freezing Libraries in Virtual Environment
+```bash
+pip freeze > requirements.txt
+```
