@@ -1,13 +1,18 @@
 # US VISA Approval Prediction 
 
-# To create Python env
+## To create Python env
 ```bash
 python -m venv venv
 ```
 
-# To Activate Python env
+## To Activate Python env
 ```bash
 source venv/Scripts/activate
+```
+## To deactivate the Virtual Environment
+
+```bash
+deactivate venv
 ```
 
 ## Run the `template.py` File
