@@ -1,5 +1,11 @@
 # US VISA Approval Prediction 
 
+## App Interface
+
+![img 1](https://github.com/mohammadwasiq0/US-VISA-Approval-Prediction/blob/main/flowcharts/img_1.png)
+
+![img_2](https://github.com/mohammadwasiq0/US-VISA-Approval-Prediction/blob/main/flowcharts/img_2.png)
+
 ## To create Python env
 ```bash
 python -m venv venv
@@ -60,6 +66,23 @@ pip freeze > requirements.txt
 5. pipeline
 6. app.py / demo.py
 
+## Project Structure
+
+### Folder Structure
+
+![folder_Structure](https://github.com/mohammadwasiq0/US-VISA-Approval-Prediction/blob/main/flowcharts/1_Folder%20Structure.png)
+
+![Data_Ingestion](https://github.com/mohammadwasiq0/US-VISA-Approval-Prediction/blob/main/flowcharts/Data%20Ingestion.png)
+
+![Data_Transformation](https://github.com/mohammadwasiq0/US-VISA-Approval-Prediction/blob/main/flowcharts/Data%20Transformation.png)
+
+![Data_Validation](https://github.com/mohammadwasiq0/US-VISA-Approval-Prediction/blob/main/flowcharts/Data%20Validation.png)
+
+![Data_Trainer](https://github.com/mohammadwasiq0/US-VISA-Approval-Prediction/blob/main/flowcharts/Model%20Trainer.png)
+
+![Data_Evaluation](https://github.com/mohammadwasiq0/US-VISA-Approval-Prediction/blob/main/flowcharts/Model%20Evaluation.png)
+
+![Data_Pusher](https://github.com/mohammadwasiq0/US-VISA-Approval-Prediction/blob/main/flowcharts/Model%20Pusher.png)
 
 ### Export the  environment variable
 ```bash
