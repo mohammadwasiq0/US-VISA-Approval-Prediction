@@ -8,17 +8,22 @@
 
 ## To create Python env
 ```bash
-python -m venv venv
+python -m venv <ENV_NAME>
 ```
 
 ## To Activate Python env
 ```bash
-source venv/Scripts/activate
+source <ENV_NAME>/Scripts/activate
 ```
 ## To deactivate the Virtual Environment
 
 ```bash
-deactivate venv
+deactivate <ENV_NAME>
+```
+
+## To remove the Virtual Environment
+```bash
+rm -rf <ENV_NAME>
 ```
 
 ## Run the `template.py` File
