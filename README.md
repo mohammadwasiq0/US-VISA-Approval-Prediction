@@ -26,9 +26,9 @@ deactivate <ENV_NAME>
 rm -rf <ENV_NAME>
 ```
 
-## Run the `template.py` File
+## Run the `app.py` File
 ```bash
-python template.py
+python app.py
 ```
 
 ## Git Commands
